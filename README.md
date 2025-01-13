@@ -4,21 +4,13 @@
 
 
 
-<h2 align="center">Hi there, I'm Anish 👋</h2>
+<h1 align="center">Hi there, I'm Anish 👋</h1>
 
-<h3 align="center">Student | AI Developer | Sophomore </h3>
+<h2 align="left"> Student, AI Developer </h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anish-k-m-273670319/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:anishbtechaiads@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anishbtechaiads@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
 
 ## About me
-<p align="left">🔭 I work with Artificial Intelligence, Machine Learning, Computer Vision, DevOps, Cybersecurity, Vision Models, Audio Models, Multimodal Agents, microprocessor, microcontroller, and Embedded AI.<br><br>🌱 I write and test software, fix bugs,<br><br>💬 Ask me about the Beauty of AI!<br><br>⚡ I Use Arch, Fedora, Debian, [sometimes Windows!!]</p>
+<p align="left">🔭 I work with Artificial Intelligence, Machine Learning, Pytorch, Computer Vision, DevOps, Cybersecurity, Image Models, Audio Models, Multimodal Agents, microprocessor, microcontroller, and Embedded AI.<br><br>😎 I turn ideas to code using caffeine<br><br>🌱 I write and test software, fix bugs,<br><br>💬 Ask me about the Beauty of AI!<br><br>⚡ I Use Arch, Fedora, Debian, [sometimes Windows!!]</p>
 <hr>
 
 
