@@ -13,7 +13,7 @@
 </p>
 
 
-[# 💫 About Me:
+💫 About Me:
 🔭 I work with Artificial Intelligence, Machine Learning, Computer Vision, DevOps, Cybersecurity, Vision Models, Audio Models, Multimodal Agents, microprocessor, microcontroller and Embedded AI.
 🌱 I write and test software, fix bugs,
 💬 Ask me about the Beauty of AI!
