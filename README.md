@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Anish 👋</h2>
 
-<h3 align="center">| Student | AI DEV | </h3>
+<h3 align="center">Student | AI DEV </h3>
 <p align="center">Sophomore | SRM Easwari Engineering College</p>
 
 <p align="center">
