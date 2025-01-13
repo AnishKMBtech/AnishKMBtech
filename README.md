@@ -6,8 +6,7 @@
 
 <h2 align="center">Hi there, I'm Anish 👋</h2>
 
-<h3 align="center">Student | AI DEV </h3>
-<p align="center">Sophomore | SRM Easwari Engineering College</p>
+<h3 align="center">Student | AI Developer | Sophomore </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anish-k-m-273670319/">
