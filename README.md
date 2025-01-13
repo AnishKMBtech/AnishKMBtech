@@ -12,12 +12,10 @@
   </a>
 </p>
 
+## About me
+<p align="left">🔭 I work with Artificial Intelligence, Machine Learning, Computer Vision, DevOps, Cybersecurity, Vision Models, Audio Models, Multimodal Agents, microprocessor, microcontroller, and Embedded AI.<br><br>🌱 I write and test software, fix bugs,<br><br>💬 Ask me about the Beauty of AI!<br><br>⚡ I Use Arch, Fedora, Debian, [sometimes Windows!!]</p>
+<hr>
 
-💫 About Me:
-🔭 I work with Artificial Intelligence, Machine Learning, Computer Vision, DevOps, Cybersecurity, Vision Models, Audio Models, Multimodal Agents, microprocessor, microcontroller and Embedded AI.
-🌱 I write and test software, fix bugs,
-💬 Ask me about the Beauty of AI!
-⚡ I Use Arch, Fedora, Debian, [sometimes windows!!]
 
 
 # 💻 Tech Stack:
