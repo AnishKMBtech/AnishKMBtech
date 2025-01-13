@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="bannergit.gif" alt="Excited to Connect" width="500"/>
+</p>
+
+
+
 <h2 align="center">Hi there, I'm Anish 👋</h2>
 
 <h3 align="center">Student | AI DEV </h3>
