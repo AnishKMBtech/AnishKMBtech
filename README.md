@@ -10,7 +10,7 @@
 
 
 ## About me
-<p align="left">🔭 I work with Artificial Intelligence, Machine Learning, Pytorch, Computer Vision, DevOps, Cybersecurity, Image Models, Audio Models, Multimodal Agents, microprocessor, microcontroller, and Embedded AI.<br><br>😎 I turn ideas to code using caffeine<br><br>🌱 I write and test software, fix bugs,<br><br>💬 Ask me about the Beauty of AI!<br><br>⚡ I Use Arch, Fedora, Debian, [sometimes Windows!!]</p>
+<p align="left">🔭 I work with Artificial Intelligence, Machine Learning, Pytorch, Computer Vision, DevOps, Cybersecurity, Image Models, Audio Models, Multimodal Agents, microprocessor, microcontroller, and Embedded AI.<br><br>😎 I turn ideas to code using caffeine<br><br>🌱 I write and test software, fix bugs,<br><br>💬 Ask me about the Beauty of AI!<br><br>⚡ I Use Arch, Nix, Fedora, Debian, [sometimes Windows!!]</p>
 <hr>
 
 
