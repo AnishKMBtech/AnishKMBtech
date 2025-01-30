@@ -10,7 +10,7 @@
 
 
 ## About me
-<p align="left">🔭 I work with Artificial Intelligence, Machine Learning, Pytorch, Computer Vision, DevOps,system security, Image Models, Audio Models, Multimodal Agentic AI, microprocessor, microcontroller, and Embedded AI.<br><br>😎 I turn ideas to code using caffeine<br><br>🌱 I write and test software, fix bugs,<br><br> I read research papers if boarded, fuled by math <br><br>💬 Ask me about the Beauty of AI!<br><br>⚡ I Use Arch, Nix, Fedora, Debian, [sometimes Windows!!]</p>
+<p align="left">🔭 I work with Artificial Intelligence, Machine Learning, Pytorch, Computer Vision, DevOps,system security, Image Models, Audio Models, Multimodal Agentic AI, microprocessor, microcontroller, and Embedded AI.<br><br>😎 I turn ideas to code using caffeine<br><br>🌱 I write and test software, fix bugs,<br><br>😌 I read research papers if boarded, I speak math and learn for my mental peace <br><br>💬 Ask me about the Beauty of AI!<br><br>⚡ I Use Arch, Nix, Fedora, Debian, [sometimes Windows!!]</p>
 <hr>
 
 check this too my hugging face page = https://huggingface.co/ANISH-j
