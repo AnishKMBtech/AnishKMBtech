@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi there, I'm Anish 👋</h1>
+<h1 align="center">Hello there, I'm Anish 👋</h1>
 
 <h2 align="left"> Student, AI Developer </h2>
 
