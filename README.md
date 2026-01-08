@@ -33,22 +33,6 @@ Here's a bit more about what I do and what I'm interested in:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnishKMBtech&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="AnishKMBtech's GitHub stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishKMBtech&theme=dark&hide_border=false" alt="AnishKMBtech's GitHub streak stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishKMBtech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="AnishKMBtech's top languages"/>
-</p>
-
-## 🔗 Connect With Me
-*   🤗 Hugging Face: [ANISH-j](https://huggingface.co/ANISH-j)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 <p align="center">
