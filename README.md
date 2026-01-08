@@ -18,8 +18,6 @@ Here's a bit more about what I do and what I'm interested in:
 
 *   🚀 **AI & Machine Learning:** My core interest lies in AI. I work with Artificial Intelligence, Machine Learning, PyTorch, Computer Vision, Image Models, Audio Models, Multimodal Agentic AI, microprocessors, microcontrollers, and Embedded AI.
 *   💻 **Software Development:** I write and test software, fix bugs, and have an understanding of DevOps principles and system security.
-*   🧠 **Continuous Learner:** I love diving into research papers when I'm looking to learn something new. I find peace in learning, speak the language of math, and I'm always seeking new information.
-*   💬 **Let's Talk AI:** Ask me about the Beauty of AI!
 *   🔧 **My Environment:** I'm comfortable across various operating systems including Arch, Nix, Fedora, Debian, and [sometimes Windows!!].
 
 <hr>
