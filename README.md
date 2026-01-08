@@ -33,11 +33,3 @@ Here's a bit more about what I do and what I'm interested in:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AnishKMBtech&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</p>
-
